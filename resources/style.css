@@ -8,7 +8,7 @@ body {
     width: 900px;
     margin-left: 120px;
     margin-right: auto;
-    background-image: url(https://raw.githubusercontent.com/thequeenarthur/thequeenarthur.github.io/master/path/to/images/Giant%20ParchmentRedo4.jpg);
+    background-image: url("../images/Giant%20ParchmentRedo4.jpg);
     background-color: #f7f7f7;
 }
 
